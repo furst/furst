@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 -->
 
 ### Current side-projects
-* 🏋️ [Gymlogr](https://github.com/furst/gymlogr)
+* 🤖 [Conductor](https://github.com/furst/conductor) – An AI agent builder CLI for creating interactive, tool-enabled agents.
+* 🏋️ [Gymlogr](https://github.com/furst/gymlogr) - Build strength programs and track progress. Features dedicated support for the “Stronger By Science” (SBS) programming methodology with auto-regulated training.
