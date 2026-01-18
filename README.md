@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Current projects
+* 🏋️ [Gymlogr](https://github.com/furst/gymlogr)
