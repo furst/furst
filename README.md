@@ -1,6 +1,6 @@
 ## Hi, I'm Andreas 👋
 
-CTO & co-founder @ [Limina AB](https://github.com/liminaab)
+ex-CTO & co-founder @ [Limina AB](https://github.com/liminaab) · acquired by Arcesium 2026
 
 <!--
 **furst/furst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 ### Current side-projects
-* 🤖 [Conductor](https://github.com/furst/conductor) – An AI agent builder CLI for creating interactive, tool-enabled agents.
+* ✏️ [Jot](https://github.com/furst/jot) - Lightweight macOS menu bar app for quick Markdown notes
 * 🏋️ [Gymlogr](https://github.com/furst/gymlogr) - Build strength programs and track progress. Features dedicated support for the “Stronger By Science” (SBS) programming methodology with auto-regulated training.
